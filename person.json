@@ -1,0 +1,48 @@
+{
+    "person": [
+    {
+                    "id":"1",
+                    "name":"Kate",
+                    "city":"Lviv",
+                    "adress":{"street":"Shevch","bild":21,"flat":1},
+                    "contacts":{"telephone":34326544,"email":"123@gmail.com","skype":"hgffff"}
+
+    },
+    {               "id": "2",
+                    "name": "Nathalie",
+                    "city": "Lviv",
+                    "adress":{"street":"Yarych","bild":107,"flat":2},
+                    "contacts":{"telephone":34326547,"email":"123@gmail.com","skype":"Nath43"}
+    },
+    {               "id": "3",
+                    "name": "Victor",
+                    "city": "Lviv",
+                    "adress":{"street":"Terkov","bild":54,"flat":3},
+                    "contacts":{"telephone":34326545,"email":"123@gmail.com","skype":"Victorww"}
+    },
+    {               "id": "4",
+                    "name": "Igor",
+                    "city": "Lviv",
+                    "adress":{"street":"Mosiagna","bild":243,"flat":4},
+                    "contacts":{"telephone":34326540,"email":"123@gmail.com","skype":"Igorqq"}
+                }
+            ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
